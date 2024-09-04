@@ -1,0 +1,4 @@
+spacy_streamlit
+spacy
+transformers
+torch
